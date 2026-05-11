@@ -1,4 +1,4 @@
-# Chandrayaan Rover 🚀
+# Chandrayaan Rover
 
 Obstacle avoidance rover inspired by the Chandrayaan mission, built as a client 
 project under mentorship at Unschool Robotics Lab. Features an ultrasonic sensor 
@@ -19,19 +19,19 @@ obstacle avoidance navigation.
 | Sunboard Body (upper) | Custom built upper chassis |
 | Laser Cut Lower Body | Pre-fabricated lower chassis (client provided) |
 
-## 💻 Code
+## Code
 Code generated with AI assistance, reviewed and uploaded by me.
 
-## 📋 Project Context
+## Project Context
 Built as a client project under mentorship at **Unschool Robotics Lab**. 
 I was responsible for the full upper body construction, circuit design, 
 wiring, and implementation.
 
-## 📸 The Build
+## The Build
 ![Chandrayaan Rover](rover.jpg)
 
-## 🏫 Built At
+## Built At
 **Unschool Robotics Lab** — as part of an integrated IGCSE program.
 
-## 📅 Status
+## Status
 ✅ Completed and assembled — May 2026
