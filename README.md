@@ -2,12 +2,12 @@
 
 Obstacle avoidance rover inspired by the Chandrayaan mission, built as a client 
 project under mentorship at Unschool Robotics Lab. Features an ultrasonic sensor 
-for real-time obstacle detection and autonomous navigation.
+for real time obstacle detection and autonomous navigation.
 
 ## ⚙️ How It Works
 The ultrasonic sensor continuously measures distance to objects ahead. When an 
 obstacle is detected within a set range, the Arduino Uno processes the signal and 
-commands the L298N motor driver to steer the rover away — allowing fully autonomous 
+commands the L298N motor driver to steer the rover away allowing fully autonomous 
 obstacle avoidance navigation.
 
 ## 🔧 Components
